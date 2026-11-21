@@ -1,4 +1,4 @@
-# NEXLEVR – Marketing Campaign Performance Dashboard
+# Marketing Campaign Performance Dashboard - NEXLEVER Task 1
 
 ## Project Overview
 This project uses Power BI to analyze marketing campaign performance and present key business metrics through an interactive dashboard.
